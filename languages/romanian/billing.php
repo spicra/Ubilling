@@ -36,15 +36,15 @@ $lang['def']['Floor'] = 'Etaj';
 
 
 //City
-$lang['def']['Cityes'] = 'Города';
-$lang['def']['Create new city'] = 'Создание нового города';
-$lang['def']['New City name'] = 'Имя нового города';
-$lang['def']['New City alias'] = 'Алиас нового города';
-$lang['def']['Available cities'] = 'Существующие города';
-$lang['def']['City name'] = 'Имя города';
-$lang['def']['City alias'] = 'Алиас города';
-$lang['def']['City'] = 'Город';
-$lang['def']['Edit City'] = 'Редактирование города';
+$lang['def']['Cityes'] = 'Orașe';
+$lang['def']['Create new city'] = 'Crearea unui oraș nou';
+$lang['def']['New City name'] = 'Numele noului oraș';
+$lang['def']['New City alias'] = 'Aliasul noului oraș';
+$lang['def']['Available cities'] = 'Oraş existent';
+$lang['def']['City name'] = 'Numele orașului';
+$lang['def']['City alias'] = 'Oraș alias';
+$lang['def']['City'] = 'Oraș';
+$lang['def']['Edit City'] = 'Edita oraș';
 
 
 //Streets
