@@ -48,16 +48,16 @@ $lang['def']['Edit City'] = 'Edita oraș';
 
 
 //Streets
-$lang['def']['Streets'] = 'Улицы';
-$lang['def']['Create new street'] = 'Создание новой улицы';
-$lang['def']['New Street name'] = 'Имя новой улицы';
-$lang['def']['New Street alias '] = 'Алиас новой улицы';
-$lang['def']['Available streets'] = 'Имеющиеся улицы';
-$lang['def']['Street name'] = 'Имя улицы';
-$lang['def']['Street alias'] = 'Алиас улицы';
-$lang['def']['New Street alias'] = 'Алиас новой улицы';
-$lang['def']['Street'] = 'Улица';
-$lang['def']['Edit Street'] = 'Редактирование улицы';
+$lang['def']['Streets'] = 'Străzi';
+$lang['def']['Create new street'] = 'Crearea unei noi stradă';
+$lang['def']['New Street name'] = 'Nume noua stradă';
+$lang['def']['New Street alias '] = 'Alias stradă nouă';
+$lang['def']['Available streets'] = 'Disponibil din stradă';
+$lang['def']['Street name'] = 'Numele strazii';
+$lang['def']['Street alias'] = 'Străzi alias';
+$lang['def']['New Street alias'] = 'Alias stradă nouă';
+$lang['def']['Street'] = 'Stradă';
+$lang['def']['Edit Street'] = 'Editare stradă';
 
 //builds
 $lang['def']['Builds editor'] = 'Редактор домов';
