@@ -60,29 +60,29 @@ $lang['def']['Street'] = 'Stradă';
 $lang['def']['Edit Street'] = 'Editare stradă';
 
 //builds
-$lang['def']['Builds editor'] = 'Редактор домов';
-$lang['def']['Builds'] = 'Дома';
-$lang['def']['Add build'] = 'Добавить дом';
-$lang['def']['New build number'] = 'Номер нового дома';
-$lang['def']['Available buildings on street'] = 'Дома которые находяться на улице';
-$lang['def']['Building number'] = 'Номер дома';
+$lang['def']['Builds editor'] = 'Editor de case';
+$lang['def']['Builds'] = 'Case';
+$lang['def']['Add build'] = 'Adăugați casa';
+$lang['def']['New build number'] = 'Numărul de case noi';
+$lang['def']['Available buildings on street'] = 'Casele sunt situate pe strada';
+$lang['def']['Building number'] = 'Casă';
 
 
 
 //networks
-$lang['def']['Networks'] = 'Сети';
-$lang['def']['First IP'] = 'Начальная ІР';
-$lang['def']['Last IP'] = 'Последняя ІР';
-$lang['def']['Network type'] = 'Тип сети';
-$lang['def']['Delete network'] = 'Удалить сеть';
-$lang['def']['Services'] = 'Услуги';
-$lang['def']['Service name'] = 'Название услуги';
-$lang['def']['Delete service'] = 'Удалить услугу';
-$lang['def']['Add service'] = 'Добавить услугу';
-$lang['def']['Service network'] = 'Сеть услуги';
-$lang['def']['Service description'] = 'Название услуги';
-$lang['def']['Add network'] = 'Добавить сеть';
-$lang['def']['Network'] = 'Сеть';
+$lang['def']['Networks'] = 'Rețele';
+$lang['def']['First IP'] = 'Primul IP';
+$lang['def']['Last IP'] = 'Ultima IP';
+$lang['def']['Network type'] = 'Tip rețea';
+$lang['def']['Delete network'] = 'Șterge rețea';
+$lang['def']['Services'] = 'Servicii';
+$lang['def']['Service name'] = 'Nume serviciu';
+$lang['def']['Delete service'] = 'Ștergeţi serviciul';
+$lang['def']['Add service'] = 'Adauga serviciu';
+$lang['def']['Service network'] = 'Serviciu de rețea';
+$lang['def']['Service description'] = 'Descriere Serviciu';
+$lang['def']['Add network'] = 'Adăugați o rețea';
+$lang['def']['Network'] = 'Rețea';
 
 //DHCP
 $lang['def']['Available DHCP networks'] = 'Имеющиеся сети DHCP';
